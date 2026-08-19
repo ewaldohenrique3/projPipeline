@@ -3,7 +3,7 @@ package com.henrique;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions; // ou: import static org.junit.jupiter.api.Assertions.*;
 
-public class SomaTeste {
+public class SomaTest {
 
     @Test
     public void testeSoma() {
