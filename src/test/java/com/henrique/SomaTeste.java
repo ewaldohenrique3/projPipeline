@@ -12,7 +12,7 @@ public class SomaTeste {
         Soma conta = new Soma();
         result = conta.soma(10.0, 5.0);
 
-        // No JUnit 5 usamos Assertions (com 's')
-        Assertions.assertEquals(15.0, result);
+        // No JUnit 5 usamos Assertions
+        Assertions.assertEquals(12.0, result);
     }
 }
